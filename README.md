@@ -1,4 +1,4 @@
-# Quiz Battle 🎮
+# Head2Head Quiz Battle 🎮
 
 ![React](https://img.shields.io/badge/React-18.x-61DAFB?style=flat-square&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?style=flat-square&logo=tailwind-css)
@@ -6,7 +6,7 @@
 
 > A head-to-head quiz game where players compete to find correct answers while avoiding incorrect ones.
 
-![Quiz Battle Demo](https://via.placeholder.com/800x400?text=Quiz+Battle+Game)
+[Quiz Battle Demo](https://head2headquiz.netlify.app/)
 
 ## ✨ Features
 
@@ -139,12 +139,3 @@ Contributions, issues, and feature requests are welcome!
 ## 📜 License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-## 👥 Authors
-
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- Thanks to everyone who has contributed to this project
-- Inspired by various quiz games and knowledge competitions
